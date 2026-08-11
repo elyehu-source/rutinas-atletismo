@@ -1,0 +1,230 @@
+[
+    {
+        "nombre": "Carlos Mendoza",
+        "edad": 45,
+        "peso": 84.5,
+        "talla": 175,
+        "imc": 27.59,
+        "imc_cat": "Sobrepeso",
+        "hipertension": true,
+        "diabetes": false,
+        "articulaciones": false,
+        "sobrepeso": true,
+        "dias_semana": 3,
+        "fc_max": 176,
+        "fc_min_recom": 96,
+        "fc_max_recom": 123,
+        "fecha_registro": "2026-05-10",
+        "clave": "carlos123",
+        "historial": [
+            {
+                "fecha": "2026-05-10",
+                "mes_control": "Mayo 2026",
+                "peso": 92.0,
+                "talla": 175,
+                "imc": 30.04,
+                "comentario": "Control inicial en consulta. Clasificado con obesidad leve e hipertensión bajo tratamiento médico."
+            },
+            {
+                "fecha": "2026-06-12",
+                "mes_control": "Junio 2026",
+                "peso": 89.5,
+                "talla": 175,
+                "imc": 29.22,
+                "comentario": "Excelente adherencia en la Fase 1 de adaptación aeróbica. Reducción notable de fatiga al caminar."
+            },
+            {
+                "fecha": "2026-07-10",
+                "mes_control": "Julio 2026",
+                "peso": 87.0,
+                "talla": 175,
+                "imc": 28.41,
+                "comentario": "Iniciando método CACO. Tolerancia de impacto en rodillas adecuada, ritmo suave."
+            },
+            {
+                "fecha": "2026-08-10",
+                "mes_control": "Agosto 2026",
+                "peso": 84.5,
+                "talla": 175,
+                "imc": 27.59,
+                "comentario": "Control actual. Tensión arterial estable, progresión de trote segura."
+            }
+        ]
+    },
+    {
+        "nombre": "Laura Gómez",
+        "edad": 38,
+        "peso": 59.0,
+        "talla": 162,
+        "imc": 22.48,
+        "imc_cat": "Normal",
+        "hipertension": false,
+        "diabetes": true,
+        "articulaciones": false,
+        "sobrepeso": false,
+        "dias_semana": 4,
+        "fc_max": 181,
+        "fc_min_recom": 99,
+        "fc_max_recom": 126,
+        "fecha_registro": "2026-06-05",
+        "clave": "laura123",
+        "historial": [
+            {
+                "fecha": "2026-06-05",
+                "mes_control": "Junio 2026",
+                "peso": 60.0,
+                "talla": 162,
+                "imc": 22.86,
+                "comentario": "Registro inicial. Paciente con diabetes tipo 2 con buen control médico."
+            },
+            {
+                "fecha": "2026-07-07",
+                "mes_control": "Julio 2026",
+                "peso": 59.5,
+                "talla": 162,
+                "imc": 22.67,
+                "comentario": "Estable. Ha incorporado sesiones de fuerza los jueves y se siente con más energía."
+            },
+            {
+                "fecha": "2026-08-10",
+                "mes_control": "Agosto 2026",
+                "peso": 59.0,
+                "talla": 162,
+                "imc": 22.48,
+                "comentario": "Control actual. Glucemia en rangos óptimos post-entrenamiento. Excelente calzado y calcetines técnicos."
+            }
+        ]
+    },
+    {
+        "nombre": "Sofía Martínez",
+        "edad": 52,
+        "peso": 65.0,
+        "talla": 165,
+        "imc": 23.88,
+        "imc_cat": "Normal",
+        "hipertension": false,
+        "diabetes": false,
+        "articulaciones": true,
+        "sobrepeso": false,
+        "dias_semana": 3,
+        "fc_max": 171,
+        "fc_min_recom": 94,
+        "fc_max_recom": 119,
+        "fecha_registro": "2026-06-15",
+        "clave": "sofia123",
+        "historial": [
+            {
+                "fecha": "2026-06-15",
+                "mes_control": "Junio 2026",
+                "peso": 67.0,
+                "talla": 165,
+                "imc": 24.61,
+                "comentario": "Control inicial. Molestias leves en rodilla izquierda al caminar. Se recomienda correr sobre pasto."
+            },
+            {
+                "fecha": "2026-07-14",
+                "mes_control": "Julio 2026",
+                "peso": 66.0,
+                "talla": 165,
+                "imc": 24.24,
+                "comentario": "Leve molestia remanente, fortaleciendo pantorrillas. Menos impacto con zancada más corta."
+            },
+            {
+                "fecha": "2026-08-10",
+                "mes_control": "Agosto 2026",
+                "peso": 65.0,
+                "talla": 165,
+                "imc": 23.88,
+                "comentario": "Control actual. Dolor de rodilla casi inexistente. Fase de CACO asimilada adecuadamente."
+            }
+        ]
+    },
+    {
+        "nombre": "Alejandro Ruiz",
+        "edad": 29,
+        "peso": 78.5,
+        "talla": 180,
+        "imc": 24.23,
+        "imc_cat": "Normal",
+        "hipertension": false,
+        "diabetes": false,
+        "articulaciones": false,
+        "sobrepeso": false,
+        "dias_semana": 5,
+        "fc_max": 187,
+        "fc_min_recom": 102,
+        "fc_max_recom": 130,
+        "fecha_registro": "2026-04-10",
+        "clave": "alejandro123",
+        "historial": [
+            {
+                "fecha": "2026-04-10",
+                "mes_control": "Abril 2026",
+                "peso": 85.0,
+                "talla": 180,
+                "imc": 26.23,
+                "comentario": "Registro inicial. Ex-fumador buscando recuperar capacidad pulmonar y bajar peso de grasa."
+            },
+            {
+                "fecha": "2026-05-12",
+                "mes_control": "Mayo 2026",
+                "peso": 83.2,
+                "talla": 180,
+                "imc": 25.68,
+                "comentario": "Fase 1 completada. Adherencia al 95%. Capacidad aeróbica incrementando notoriamente."
+            },
+            {
+                "fecha": "2026-06-10",
+                "mes_control": "Junio 2026",
+                "peso": 81.5,
+                "talla": 180,
+                "imc": 25.15,
+                "comentario": "Transición a CACO con éxito. Sin molestias respiratorias de ningún tipo."
+            },
+            {
+                "fecha": "2026-07-09",
+                "mes_control": "Julio 2026",
+                "peso": 79.8,
+                "talla": 180,
+                "imc": 24.63,
+                "comentario": "Entrando en peso saludable (IMC normal). Trote continuo alcanzado de forma fluida."
+            },
+            {
+                "fecha": "2026-08-10",
+                "mes_control": "Agosto 2026",
+                "peso": 78.5,
+                "talla": 180,
+                "imc": 24.23,
+                "comentario": "Control actual. Muy buena tolerancia a los 30 min de trote continuo. Preparándose para la simulación pre-evento."
+            }
+        ]
+    },
+    {
+        "nombre": "Atleta",
+        "edad": 40,
+        "peso": 70.0,
+        "talla": 170,
+        "imc": 24.22,
+        "imc_cat": "Normal",
+        "hipertension": false,
+        "diabetes": false,
+        "articulaciones": false,
+        "sobrepeso": false,
+        "dias_semana": 3,
+        "fc_max": 180,
+        "fc_min_recom": 99,
+        "fc_max_recom": 125,
+        "fecha_registro": "2026-08-10",
+        "clave": "1234",
+        "historial": [
+            {
+                "fecha": "2026-08-10",
+                "mes_control": "Agosto 2026",
+                "peso": 70.0,
+                "talla": 170,
+                "imc": 24.22,
+                "comentario": "Registro inicial del perfil."
+            }
+        ]
+    }
+]
